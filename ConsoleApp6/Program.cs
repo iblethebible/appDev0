@@ -15,7 +15,7 @@ namespace ConsoleApp6
         }
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Ratbag");
             End();
         }
     }
